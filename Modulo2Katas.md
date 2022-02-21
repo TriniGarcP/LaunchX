@@ -80,10 +80,16 @@ Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
+![image](https://user-images.githubusercontent.com/99290564/154879896-24df03d8-d9f7-4790-aebc-0e356336fc30.png)
+
+
 
 Curso Propedútico de Python para Launch X - Innovacción Virtual.
 
 Material desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX, traducción e implementación por: Fernanda Ochoa - Learning Producer de LaunchX.
+
+
+
 
 Redes:
 * GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
